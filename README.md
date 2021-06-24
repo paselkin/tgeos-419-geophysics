@@ -15,7 +15,7 @@ To update the files so that they match the latest versions on here, use the comm
 
 	git pull origin master
 
-in the tgeos-419-geophysics folder.
+in your tgeos-419-geophysics folder.
 
 # What Python modules are required?
 
