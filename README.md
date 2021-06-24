@@ -13,7 +13,7 @@ To copy all of the files on here to your computer, use the command (in Terminal 
 Where _folder-path_ is the path to the folder where you want to save the data for this class (like ~/Desktop or C:\Users\pasel\Dropbox\Teaching\TGEOS 419\2021_SU)
 To update the files so that they match the latest versions on here, use the command:
 
-	git pull origin master
+	git pull origin main
 
 in your tgeos-419-geophysics folder.
 
