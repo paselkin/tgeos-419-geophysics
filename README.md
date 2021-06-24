@@ -1,10 +1,10 @@
-## TGEOS 419 Geophysics - Data and Notebooks
+# TGEOS 419 Geophysics - Data and Notebooks
 
-# What is this?
+## What is this?
 
 This is the site where we will keep all of the data files, data analysis scripts, and simulations for the TGEOS 419 course. It's called a _repository_. To learn more about Git and GitHub, check out the [Version Control with Git tutorial](https://swcarpentry.github.io/git-novice/) on Software Carpentry. To learn more about Python, check out [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) by Jake Vanderplas.
 
-# Getting this repository
+## Getting this repository
 
 To copy all of the files on here to your computer, use the command (in Terminal on a Mac or PowerShell on a Windows PC):
 
@@ -17,7 +17,7 @@ To update the files so that they match the latest versions on here, use the comm
 
 in your tgeos-419-geophysics folder.
 
-# What Python modules are required?
+## What Python modules are required?
 
 This tutorial requires you to have the standard modules that are installed with Anaconda Python, plus a few extras:
 
