@@ -21,6 +21,6 @@ in your tgeos-419-geophysics folder.
 
 This tutorial requires you to have the standard modules that are installed with Anaconda Python, plus a few extras:
 
-* [Fatiando a terra](https://www.fatiando.org/v0.3/install.html): This geophysical modeling package (add-in) for Python is a little tricky to install. You'll need to install a few Python packages and (if you are on a PC) another program to run it. The installation instructions are good, though.
+* **WAIT: don't install this yet!**[Fatiando a terra](https://www.fatiando.org/v0.3/install.html): This geophysical modeling package (add-in) for Python is a little tricky to install. You'll need to install a few Python packages and (if you are on a PC) another program to run it. The installation instructions are good, though. 
 * [Altair](): This data visualization package makes plotting graphs and maps really easy. If you've used R, it's analogous to ggplot. Really, all you need to install it is 
 	`conda install -c conda-forge altair vega_datasets`
