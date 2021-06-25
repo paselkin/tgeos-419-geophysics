@@ -16,6 +16,8 @@ The following commands work the same way on both a Mac and a PC.
 
 You can think of your Terminal or PowerShell window as your viewpoint as you navigate around your computer's hard disk (you have a "map" of the hard disk in your Mac **Finder** or Windows **Explorer** windows). In navigation, it's important to know where you are, and to be able to get from place to place. 
 
+**Important note: type the commands in the examples below rather than copy-pasting them! Some require you to edit parts of the command to adapt to conditions on your computer. If you copy and paste, the commands may be run automatically.** 
+
 To see where you are in the Terminal or PowerShell, type:
 
 	pwd
